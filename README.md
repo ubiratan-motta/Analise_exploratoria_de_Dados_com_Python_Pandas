@@ -2,10 +2,10 @@
 Repositório criado para entregar o desafio de projeto da DIO do bootcamp Geração Tech da Unimed-BH
 
 **Introdução a Biblioteca Pandas e estrutura de dados**
-Primeiro foi feito um estudo de como manipular estrutura de dados e como utilizar algubs recursos da biblioteca Pandas para analise de dados
+Primeiro foi feito um estudo de como manipular estrutura de dados e como utilizar alguns recursos da biblioteca Pandas para análise de dados
 
 **Trabalhando com Planilhas em Excel**
-Importando diversas planilhas excel e unindo todas para que pudesse ser feito a analise com todas as planilhas necessárias de uma unica vez
+Importando diversas planilhas Excel e unindo todas para que pudesse ser feito a analise com todas as planilhas necessárias de uma única vez
 Manipulação de dados e uso das bibliotecas Pandas e Matplotlib
 
 **Análise Exploratória**
